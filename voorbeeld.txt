@@ -1,0 +1,2 @@
+Dit is mijn eerste Git-oefening.
+Ik leer werken met Git en Github.
